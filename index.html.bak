@@ -133,7 +133,7 @@
                 class="trans">дискорде</a></div>
     </div>
     <div id="admins">
-        <div style="font-size: larger; color: white;" class="hide_on_phone trans">Администрация</div>
+        
         <div style="font-size: larger; color: white;" class="show_on_phone trans">Создатели сервера</div>
         <div id="adminFlex"><a class="admin"
             </a><a class="admin hide_on_phone" href="https://i.ibb.co/X3Wz5D6/941764348.webp"><img
